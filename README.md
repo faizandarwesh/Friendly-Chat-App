@@ -1,5 +1,5 @@
 # Friendly-Chat-App
 Simple group chat app
-![](9.PNG)
-![](8.PNG)
-![](10.PNG)
+![](9.png)
+![](8.png)
+![](10.png)
